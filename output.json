@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "version": 1,
+    "split": false,
+    "image_id": "Purchase-Order-Template-01-TemplateLab_page_1.png",
+    "image_size": {
+      "width": 612,
+      "height": 792
+    }
+  },
+  "words": [
+    {
+      "rect": {
+        "x1": 348,
+        "y1": 47,
+        "x2": 566,
+        "y2": 149
+      },
+      "value": "sdv",
+      "label": "item"
+    }
+  ]
+}
